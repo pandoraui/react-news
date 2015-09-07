@@ -3,7 +3,7 @@
 import React from 'react/addons';
 
 // components
-const Link = require('react-router').Link;
+import { Link } from 'react-router';
 
 const uhOh = React.createClass({
     render() {

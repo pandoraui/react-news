@@ -10,7 +10,7 @@ import UserStore from '../stores/UserStore';
 
 import Spinner from '../components/Spinner';
 import Post from '../components/Post';
-import Link from 'react-router/lib/Link';
+import { Link } from 'react-router';
 
 const Posts = React.createClass({
 

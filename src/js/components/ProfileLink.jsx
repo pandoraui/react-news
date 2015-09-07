@@ -1,7 +1,7 @@
 'use strict';
 
 import React, { PropTypes } from 'react/addons';
-import Link from 'react-router/lib/Link';
+import { Link } from 'react-router';
 
 const ProfileLink = React.createClass({
     propTypes: {
